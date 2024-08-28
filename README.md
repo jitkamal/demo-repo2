@@ -1,11 +1,11 @@
-# YOU_TUBE
+# Instagran
 
-Some Videos here!
+Here Instagram Videos!
 
-## YOUTUBE CHANNEL
+## Posts
 
-Subscribe my youtube page!
+In this section all instagram posts loacted here!
 
-### Page Description
+### Picture
 
-This page only contain the information about Youtube .....s
+In this section all pictures!
