@@ -1,6 +1,6 @@
 # Demo
 
-ssomeText
+SomeText
 
 # subHeader
 
@@ -8,4 +8,4 @@ Watch Tutorial On YouTube
 
 ## Local Developement
 
-Open index.html file on your Browser
+Open index.html file on your chrome Browser
